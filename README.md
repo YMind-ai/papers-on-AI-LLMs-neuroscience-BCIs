@@ -1,5 +1,5 @@
-# papers-on-AI-neuroscience-BCIs
-This repository is a collection of SOTA research papers on AI, neuroscience &amp; BLIs that influence the development of [Y](https://ymind.ai). Unless otherwise stated, Y has no affiliation with the authors or organizations behind the papers.
+# papers-on-AI-neuroscience-BCIs*
+This repository is a collection of SOTA research papers on AI, neuroscience &amp; BLIs that influence the development of [Y](https://ymind.ai).
 
 This collection is updated regularly.
 
@@ -17,3 +17,7 @@ This collection is updated regularly.
 ### Neuroscience
 
 - [2024/08] **The brain simulates actions and their consequences during REM sleep** - [link](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
+
+-----------------------------------
+
+*Unless otherwise stated, Y has no affiliation with the authors or organizations behind the papers.

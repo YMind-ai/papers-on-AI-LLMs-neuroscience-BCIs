@@ -1,4 +1,4 @@
-# papers-on-AI-LLMs-neuroscience-BCIs*
+# Papers on state of the art AI - LLMs, neuroscience, BCIs*
 This repository is a collection of SOTA research papers on AI, neuroscience &amp; BLIs that influence the development of [Y](https://ymind.ai).
 
 This collection is updated regularly.

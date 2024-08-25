@@ -18,6 +18,10 @@ This collection is updated regularly.
 
 - [2024/08] **The brain simulates actions and their consequences during REM sleep** - [link](https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1)
 
+### Simulation Theory
+
+- [2003/04] **Are We Living in a Computer Simulation?** - [link](https://simulation-argument.com/simulation.pdf)
+
 -----------------------------------
 
 *Unless otherwise stated, Y has no affiliation with the authors or organizations behind the papers.

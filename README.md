@@ -6,10 +6,13 @@ This collection is updated regularly.
 ### LLM Agents
 
 - [2024/08] **Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers** - [link](https://arxiv.org/abs/2408.06195)
-- [2024/07] **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** - [link](https://arxiv.org/abs/2407.04363)
 - [2024/05] **Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity** - [link](https://arxiv.org/abs/2405.12514)
 - [2024/03] **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents** - [link](https://arxiv.org/abs/2403.08715)
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** - [link](https://arxiv.org/abs/2304.03442)
+
+### LLM Memory
+
+- [2024/07] **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** - [link](https://arxiv.org/abs/2407.04363)
 
 ### BLIs
 

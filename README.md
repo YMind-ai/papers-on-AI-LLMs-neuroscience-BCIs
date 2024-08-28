@@ -13,6 +13,7 @@ This collection is updated regularly.
 ### LLM Memory
 
 - [2024/07] **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** - [link](https://arxiv.org/abs/2407.04363)
+- [2024/05] **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** - [link](https://arxiv.org/pdf/2405.14831)
 
 ### BLIs
 

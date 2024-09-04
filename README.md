@@ -9,6 +9,7 @@ This collection is updated regularly.
 - [2024/05] **Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity** - [link](https://arxiv.org/abs/2405.12514)
 - [2024/03] **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents** - [link](https://arxiv.org/abs/2403.08715)
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** - [link](https://arxiv.org/abs/2304.03442)
+- [1994/07] **The Role of Emotion in Believable Agents** - [link](https://dl.acm.org/doi/10.1145/176789.176803)
 
 ### LLM Memory
 

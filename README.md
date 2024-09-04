@@ -9,12 +9,17 @@ This collection is updated regularly.
 - [2024/05] **Future You: A Conversation with an AI-Generated Future Self Reduces Anxiety, Negative Emotions, and Increases Future Self-Continuity** - [link](https://arxiv.org/abs/2405.12514)
 - [2024/03] **SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents** - [link](https://arxiv.org/abs/2403.08715)
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior** - [link](https://arxiv.org/abs/2304.03442)
+- [2023/01] **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** - [link](https://arxiv.org/abs/2201.11903)
 - [1994/07] **The Role of Emotion in Believable Agents** - [link](https://dl.acm.org/doi/10.1145/176789.176803)
 
 ### LLM Memory
 
 - [2024/07] **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents** - [link](https://arxiv.org/abs/2407.04363)
 - [2024/05] **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models** - [link](https://arxiv.org/pdf/2405.14831)
+
+### Decision Trees
+
+- [2023/12] **MedDM:LLM-executable clinical guidance tree for clinical decision-making** - [link](https://arxiv.org/html/2312.02441v1)
 
 ### BLIs
 
